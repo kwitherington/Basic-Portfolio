@@ -1,12 +1,17 @@
 head {
     background: #ffffff;
-    border-bottom: 3px solid #cccccc;
+}
+
+.topBar {
+    margin: 0px;
+    padding: 0px;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
 }
 
 .header{
     margin: auto;
     width: 960px;
-    border-bottom: 3px solid #cccccc;
     padding: 0px 60px 0px 0px;
 }
 
@@ -46,7 +51,7 @@ head {
 }
 
 body {
-    background-image: url ("dust_scratches.png");
+    background-image: url ("../images/dust_scratches.png");
 }
 
 .wrapper {
