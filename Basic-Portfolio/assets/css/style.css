@@ -2,6 +2,16 @@ head {
     background: #ffffff;
 }
 
+a:link {
+    color: inherit;
+    text-decoration: none currentcolor solid;
+}
+
+a:visited {
+    color: inherit;
+    text-decoration: none currentcolor solid;
+}
+
 .topBar {
     margin: 0px;
     padding: 0px;
