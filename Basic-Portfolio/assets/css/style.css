@@ -110,3 +110,31 @@ input {
     font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777777;
 }
+
+.formSubmitButton {
+    padding: 0px 15px 0px 15px;
+    background: #4aaaa5;
+    color: white;
+}
+
+.portfolioItem {
+    height: 200px;
+    width: 300px;
+    float: left;
+    margin: 15px;
+}
+
+.portfolioImage {
+    height: inherit;
+    width: inherit;
+}
+
+.banner {
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-size: 12px;
+    background: #4aaaa5;
+    position: relative;
+    bottom: 80px;
+}
